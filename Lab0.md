@@ -33,7 +33,7 @@ HTML là viết tắt của HyperText Markup Language, tạm dịch là Ngôn ng
 
 ** Các biểu đồ đơn giản**
 
-* **Class**
+* **Biểu đồ lớp**
   
 ![Class](https://www.planttext.com/api/plantuml/png/D8un3i8m34Ltdy8Z3DoXg0mWiJD7ZLLPJMmKEtH0d8o18t45WWBRUyFN--_dQp0FnMjE0BQmO54Z06TFX6CAPcIuwuG73dC96G2cxYkbn3BZ7H3n98uNbgYhVVMc7F6iqxBPmkE_s5zRB9FupuzQMwxpg3bNQV619BP37m000F__0m00)
 
@@ -41,3 +41,9 @@ HTML là viết tắt của HyperText Markup Language, tạm dịch là Ngôn ng
 
 ![package](
 https://www.planttext.com/api/plantuml/png/L8_1QW9144JlzHLrrCFgVGv1sDMJ907nuB7HPXcSdPMUsK08-R8Syad-GXeaYdreYkf75Ntz-LsLAbQd8G7b73DjB0hKM9FoNOvdwPKDzqNPYgykIcyo030zLiczOnkLEfaMVe4-i-tOnpo_wTRyg5ooqwGkFCZcbCAss-CR2ElXaiPFrK24DaNDDI3ifelQHooZ1U2VODEytCCVn9DzI-1YSRSO-FhsZ3llxO67zGvOQJxvzty0003__mC0)
+
+
+* **Biểu đồ ca sử dụng**
+
+
+![usecase](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3XTNSNPcda9HVd4g5rT9PabEga9eSQg2SoAGSCbCJ2zAp5NWukBIyCbFpypJvD88AirJ22ZAJqujBjPKI2nMq01n33MvIejJaq5wD4BpKlBXAX32GFqA_gKbO3sXpYPSN0wfUIb0-m40003__mC0)
