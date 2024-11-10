@@ -13,6 +13,10 @@ HTML là viết tắt của HyperText Markup Language, tạm dịch là Ngôn ng
 * **Visual Studio Code:** Là một IDE mã nguồn mở, nhẹ nhàng và được Microsoft hỗ trợ.
 * **Atom:** Một trình soạn thảo mã nguồn mở, có thể tùy chỉnh cao và tích hợp với nhiều gói mở rộng.
 * **Notepad++**: Một trong những trình soạn thảo phổ biến nhất, hỗ trợ nhiều ngôn ngữ lập trình, bao gồm HTML.
+
+* **Bạn muốn biết hơn về HTML và cách sử dụng nó ?** https://www.w3schools.com/html/
+
+  
   
 **1 ví dụ nhỏ về HTML:**
 ```<!DOCTYPE html>
@@ -25,3 +29,10 @@ HTML là viết tắt của HyperText Markup Language, tạm dịch là Ngôn ng
     <p>Đây là một đoạn văn bản được viết bằng thẻ p.</p>
 </body>
 </html>
+```
+
+** Các biểu đồ đơn giản**
+
+* **Class**
+  
+![Class](https://www.planttext.com/api/plantuml/png/D8un3i8m34Ltdy8Z3DoXg0mWiJD7ZLLPJMmKEtH0d8o18t45WWBRUyFN--_dQp0FnMjE0BQmO54Z06TFX6CAPcIuwuG73dC96G2cxYkbn3BZ7H3n98uNbgYhVVMc7F6iqxBPmkE_s5zRB9FupuzQMwxpg3bNQV619BP37m000F__0m00)
