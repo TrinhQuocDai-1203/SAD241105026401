@@ -1,4 +1,4 @@
-## Tổng hợp các ca sử dụng chính:
+## Tổng hợp về các ca sử dụng chính:
 ###  + PurchaseOder
 ###  + Employee
 ### + Timecard
